@@ -1,7 +1,7 @@
 ## Simultaneous cortical, subcortical, and brainstem mapping of sensory activation
-This analysis code is shared alongside the manuscript found here:
+This analysis code is shared alongside the manuscript found here: https://doi.org/10.1101/2024.04.11.589099
 
-Relevant data files can be found on OpenNeuro:
+Relevant data files can be found on OpenNeuro: https://doi.org/10.18112/openneuro.ds005009.v1.0.0
 
 ## Code
 ### MRI pre-processing and registration
